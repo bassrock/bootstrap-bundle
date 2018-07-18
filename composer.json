@@ -35,6 +35,6 @@
         "twbs/bootstrap":               "Twitter Bootstrap provides the assets (images, CSS and JS)"
     },
     "autoload": {
-        "psr-4": { "Bc\\Bundle\\BootstrapBundle\\": "" }
+        "psr-4": { "Braincrafted\\Bundle\\BootstrapBundle\\": "" }
     }
 }
