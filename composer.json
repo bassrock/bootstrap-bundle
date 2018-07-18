@@ -1,5 +1,5 @@
 {
-    "name":         "bassrock/bootstrap-bundle",
+    "name":         "braincrafted/bootstrap-bundle",
     "description":  "BraincraftedBootstrapBundle integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.",
     "keywords":     ["bootstrap"],
     "type":         "symfony-bundle",
@@ -35,6 +35,6 @@
         "twbs/bootstrap":               "Twitter Bootstrap provides the assets (images, CSS and JS)"
     },
     "autoload": {
-        "psr-4": { "Braincrafted\\Bundle\\BootstrapBundle\\": "" }
+        "psr-4": { "Bc\\Bundle\\BootstrapBundle\\": "" }
     }
 }
